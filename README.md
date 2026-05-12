@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Noman, a passionate full stack developer specializing in the MERN stack. I enjoy turning complex ideas into functional and user-friendly web applications. With a solid foundation in React and Node.js, I focus on crafting scalable and efficient code. I'm continuously expanding my skills and staying up-to-date with the latest in web technologies. Currently, I'm diving deeper into backend development to strengthen my full-stack expertise. Let's connect and build something amazing together!<br><br>
+Hi, I'm Noman, an MSCS student exploring Artificial Intelligence, Machine Learning, and Data Science. I have a background in MERN stack development and enjoy learning new technologies, improving my skills, and understanding how AI can solve real-world problems. Currently focused on learning, experimenting, and growing step by step in the field of AI/ML!<br><br>
 
 
 ## 🌐 Socials:
