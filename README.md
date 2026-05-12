@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Noman, an MSCS student exploring Artificial Intelligence, Machine Learning, and Data Science. I have a background in MERN stack development and enjoy learning new technologies, improving my skills, and understanding how AI can solve real-world problems. Currently focused on learning, experimenting, and growing step by step in the field of AI/ML!<br><br>
+Hi, I’m Noman — an MSCS student at National University of Computer and Emerging Sciences with a background of 6 months of internship experience in Mern stack development. Recently, I decided to shift my focus toward Artificial Intelligence and Machine Learning because of my interest in intelligent technologies and problem solving. Currently, I’m learning AI/ML, Data Science, and Python while exploring how technology can be used to build smarter solutions.!<br><br>
 
 
 ## 🌐 Socials:
